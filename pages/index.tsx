@@ -29,6 +29,7 @@ export default function Home({ allPostsData }: {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Opa! Eu sou Thomas Lossio, sou desenvolvedor de sistemas/gestor de TI na SNR Sistemas.</p>
+        <p>Este é mais um exemplo com NextJS para aprender alguns dos seus conceitos.</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
